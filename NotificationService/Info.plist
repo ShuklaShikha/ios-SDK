@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CleverTapToken</key>
+	<string>TEST-614-52b
+</string>
+	<key>CleverTapAccountID</key>
+	<string>TEST-8R5-4Z6-676Z</string>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.usernotifications.service</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>$(PRODUCT_MODULE_NAME).NotificationService</string>
+	</dict>
+</dict>
+</plist>
